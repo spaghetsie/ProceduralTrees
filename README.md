@@ -1,5 +1,4 @@
 # ProceduralTrees
-<<<<<<< HEAD
 This is my graduation project. It tries to generate organic looking trees using a technique inspired by physarum simulations.
 
 # Showcase
@@ -8,7 +7,3 @@ This is my graduation project. It tries to generate organic looking trees using 
 <img src="./showcase/03.png" width="400px" height="400px">
 <img src="./showcase/04.png" width="400px" height="400px">
 <img src="./showcase/05.png" width="400px" height="400px">
-=======
-
-This is my graduation project. It tries to generate organic looking trees using a technique inspired by physarum simulations.
->>>>>>> d15137c4d3eb5782fd932d1e2f1dc055be7dcf91
